@@ -31,21 +31,24 @@ List the dependencies needed for your project. Since you are using PyQt5, you ca
 
 
 
-### 4. **main.py**
+### 4. **dos_protection_tool.py**
 This is your main Python script. Make sure this is the final version of your code.
 
 ### 5. **images/** (optional)
 If you have any screenshots or images that help illustrate your project, you can place them in an `images` directory and reference them in your README.
 
+
+
 ### Final Steps
  **Initialize Git and Push to GitHub:**
    If you haven’t already done so, initialize your local directory as a Git repository, add your files, and push to GitHub:
+         ![image](https://github.com/user-attachments/assets/6024da75-19ef-4617-8f9e-068a83419c9d)
 
    
    git init
    git add .
    git commit -m "Initial commit"
-   git branch -M main
+   git branch -M dos_protection_tool
    git remote add origin https://github.com/sakthivel-sec/DoSProtectionTool.git
    git push -u origin main
 
